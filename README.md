@@ -61,8 +61,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-Open your browser to `(https://tb-screening-assistant-cwhupnhfsttrbvmdt4l64t.streamlit.app/)`.
-
+Open your browser to [`(https://tb-screening-assistant-cwhupnhfsttrbvmdt4l64t.streamlit.app/)`.
+](https://tb-screening-assistant-cwhupnhfsttrbvmdt4l64t.streamlit.app/)
 ---
 
 ## Deployment to Streamlit Community Cloud
